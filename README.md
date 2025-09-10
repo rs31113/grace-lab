@@ -1,6 +1,6 @@
 # GRACE LAB
 
-This repository contains the code for the landing page of "Grace Lab", a beauty salon based in Moscow. The website is developed using Python (Django framework), HTML, and CSS. The site is live and can be accessed at [https://grace-lab.ru](https://grace-lab.ru).
+This repository contains the code for the landing page of "Grace Lab", a beauty salon based in Moscow.
 
 ## Project Overview
 
@@ -19,11 +19,17 @@ This repository contains the code for the landing page of "Grace Lab", a beauty 
 - **Contact Information**: Easy-to-find contact details and an embedded Yandex Map for location guidance.
 - **Analytics**: Detailed statistics and client actions tracking using Yandex.Metrica API.
 
-## Technologies Used
+## Technology Stack
 
 - **Backend**: Python, Django
 - **Frontend**: HTML, CSS, JavaScript
+- **Hosting:** reg.ru
 - **APIs**: Yclients API for booking, Yandex Maps API for location, Yandex.Metrica API for analytics
+
+## How to Access
+
+The website is live and can be accessed at: [https://e-studio.store](https://e-studio.store)
+! Update (September 2025): The website has been taken offline due to the closure of the salon.
 
 ## Contributing
 
@@ -35,4 +41,4 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ## Contacts
 
-For any inquiries or support, please contact me at [rs31113@yandex.ru](mailto:rs31113@yandex.ru) or via Telegram [@rs31113](https://t.me/rs31113).
+For any inquiries or support, please contact me at [rs31113@yandex.ru](mailto:rs31113@yandex.ru) or via Telegram [@rrshafikov](https://t.me/rrshafikov).
