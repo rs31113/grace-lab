@@ -31,14 +31,6 @@ This repository contains the code for the landing page of "Grace Lab", a beauty 
 The website is live and can be accessed at: [https://grace-lab.ru](https://grace-lab.ru).
 ! Update (September 2025): The website has been taken offline due to the closure of the salon.
 
-## Contributing
-
-This repository is private and intended for demonstration purposes. If you have access and wish to suggest improvements, please contact me directly.
-
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
 ## Contacts
 
 For any inquiries or support, please contact me at [rs31113@yandex.ru](mailto:rs31113@yandex.ru) or via Telegram [@rrshafikov](https://t.me/rrshafikov).
