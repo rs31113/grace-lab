@@ -28,8 +28,8 @@ This repository contains the code for the landing page of "Grace Lab", a beauty 
 
 ## How to Access
 
-The website is live and can be accessed at: [https://grace-lab.ru](https://grace-lab.ru).
-! Update (September 2025): The website has been taken offline due to the closure of the salon.
+The website is live and can be accessed at: [https://grace-lab.ru](https://grace-lab.ru).  
+❗ Update (September 2025): The website has been taken offline due to the closure of the salon.
 
 ## Contacts
 
